@@ -2,6 +2,8 @@
 
 A standalone 3D tile-based terrain editor demo built with React + Babylon.js. Very much a WIP with bugs and half-baked features. 
 
+<img width="1920" height="1581" alt="tiless" src="https://github.com/user-attachments/assets/cbd3a21a-a0ad-4b90-ada5-58d0a1c2a2d1" />
+
 
 ---
 
