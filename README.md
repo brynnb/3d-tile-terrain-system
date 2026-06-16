@@ -1,6 +1,6 @@
 # 3D Tile Terrain System
 
-A standalone 3D tile-based terrain editor demo built with React + Babylon.js. Very much a WIP with bugs and half-baked features. I'm interested in building this because I don't believe there is any existing project, open source or otherwise, that provides varaible slope terrain building like this for both mountains and pits. Most games use a fixed slope (maximum change of one height unit per tile) because it's significantly easier to implement. Variable slope has proven challenging in all edge cases but I'm still working on it. 
+A standalone 3D tile-based terrain editor demo built with React + Babylon.js. Very much a WIP with bugs and half-baked features. I'm interested in building this because I don't believe there is any existing project, open source or otherwise, that provides variable slope terrain building like this for both mountains and pits. Most games use a fixed slope (maximum change of one height unit per tile) because it's significantly easier to implement. Variable slope has proven challenging in all edge cases but I'm still working on it. 
 
 <img width="1920" height="1581" alt="tiless" src="https://github.com/user-attachments/assets/cbd3a21a-a0ad-4b90-ada5-58d0a1c2a2d1" />
 
